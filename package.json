@@ -50,7 +50,7 @@
     "jsnext:main": "./es/index.js",
     "dependencies": {
         "bigi": "1.4.2",
-        "bitsharesjs-ws": "^1.5.2",
+        "bitsharesjs-ws": "github:chazu/bitsharesjs-ws",
         "bs58": "4.0.1",
         "bytebuffer": "5.0.1",
         "create-hash": "1.2.0",
@@ -71,16 +71,16 @@
         "babel-preset-env": "^1.7.0",
         "babel-preset-stage-1": "^6.24.1",
         "browserify": "^16.2.2",
-        "cross-env": "^5.0.1",
+        "cross-env": "^5.1.6",
         "esdoc": "^1.1.0",
         "esdoc-standard-plugin": "^1.0.0",
         "eslint": "^4.19.1",
         "husky": "^0.14.3",
         "mkdirp": "^0.5.1",
         "mocha": "^5.2.0",
-        "prettier": "^1.11.1",
-        "pretty-quick": "^1.4.1",
-        "rimraf": "^2.6.1",
-        "uglify-js": "^3.3.10"
+        "prettier": "^1.13.4",
+        "pretty-quick": "^1.6.0",
+        "rimraf": "^2.6.2",
+        "uglify-js": "^3.4.0"
     }
 }
